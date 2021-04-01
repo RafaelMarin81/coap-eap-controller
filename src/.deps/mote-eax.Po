@@ -1,0 +1,8 @@
+mote-eax.o: panatiki/eax.c panatiki/include.h panatiki/eax.h \
+ panatiki/aes.h
+
+panatiki/include.h:
+
+panatiki/eax.h:
+
+panatiki/aes.h:
